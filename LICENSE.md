@@ -1,4 +1,4 @@
-# 
+# Enhance CrossOver for macOS with CrossOver for macOS advanced Plugin: cross-platform-support & clipboard-sharing, the #1 plugin. Includes cross-platform-support and
 
 
 
